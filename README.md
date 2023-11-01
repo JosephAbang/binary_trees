@@ -64,6 +64,9 @@ To compile the project, run the following command:
 ```shell
 gcc -Wall -Werror -Wextra -pedantic *.c -o binary_trees
 ```
+
+## Usage
+
 ```shell
 ./binary_trees
 ```
